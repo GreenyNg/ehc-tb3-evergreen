@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #b70035;
   color: #fff;
   padding: 10px;
   display: flex;
@@ -73,7 +73,7 @@ form button {
   display: block;
   margin: 0 auto;
   padding: 10px 20px;
-  background-color: #333;
+  background-color: #b70035;
   color: #fff;
   border: none;
   border-radius: 5px;
